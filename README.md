@@ -53,4 +53,5 @@ npm run build
 
 ## Examples
 [Cookies Editor: View, Import & Export]
-[(https://chromewebstore.google.com/detail/cookies-editor-view-impor/jadkflddmcbaakhjablcealajecbkbom)
+
+(https://chromewebstore.google.com/detail/cookies-editor-view-impor/jadkflddmcbaakhjablcealajecbkbom)
