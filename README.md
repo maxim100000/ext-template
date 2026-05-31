@@ -52,4 +52,5 @@ npm run build
 - [CRXJS Documentation](https://crxjs.dev/vite-plugin)
 
 ## Examples
-[Cookies Editor: View, Import & Export][(https://chromewebstore.google.com/detail/cookies-editor-view-impor/jadkflddmcbaakhjablcealajecbkbom)
+[Cookies Editor: View, Import & Export]
+[(https://chromewebstore.google.com/detail/cookies-editor-view-impor/jadkflddmcbaakhjablcealajecbkbom)
