@@ -50,3 +50,6 @@ npm run build
 - [Svelte Documentation](https://svelte.dev/)
 - [Vite Documentation](https://vitejs.dev/)
 - [CRXJS Documentation](https://crxjs.dev/vite-plugin)
+
+## Examples
+[Cookies Editor: View, Import & Export][(https://chromewebstore.google.com/detail/cookies-editor-view-impor/jadkflddmcbaakhjablcealajecbkbom)
