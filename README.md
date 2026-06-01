@@ -52,4 +52,4 @@ npm run build
 - [CRXJS Documentation](https://crxjs.dev/vite-plugin)
 
 ## Examples
-For easy debugging, view, create, edit, import, export cookies install this [Cookies Editor: View, Import & Export](https://chromewebstore.google.com/detail/cookies-editor-view-impor/jadkflddmcbaakhjablcealajecbkbom)
+For easy debugging, view, create, edit, import, export cookies install this chrome extension [Cookies Editor: View, Import & Export](https://chromewebstore.google.com/detail/cookies-editor-view-impor/jadkflddmcbaakhjablcealajecbkbom)
