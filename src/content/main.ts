@@ -1,6 +1,6 @@
 import css from '@/content/style.css?inline'
 import { mount } from 'svelte'
-import App from './views/App.svelte'
+import App from './App.svelte'
 
 function mountApp() {
   if (document.querySelector('#crxjs-app')) return

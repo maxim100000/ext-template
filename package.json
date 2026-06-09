@@ -19,7 +19,6 @@
     "@tsconfig/svelte": "^5.0.6",
     "@types/chrome": "^0.1.32",
     "@types/node": "^25.0.3",
-    "daisyui": "^5.5.14",
     "typescript": "^5.9.3",
     "vite": "^7.3.0",
     "vite-plugin-zip-pack": "^1.2.4"

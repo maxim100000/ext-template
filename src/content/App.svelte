@@ -1,13 +1,11 @@
-<script lang='ts'>
- 
+<script>
+  
 </script>
 
-
 <div>
-
+  
 </div>
 
-
 <style>
-
+  
 </style>
